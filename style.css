@@ -1,0 +1,13 @@
+li{
+	color: blue;
+}
+
+strong{
+	color: forestgreen;
+}
+
+img{
+	height: 20em;
+	width: 20em;
+	transform: rotate(90deg);
+}
